@@ -1,4 +1,4 @@
-# cs2-portfolio
+## CS2 Portfolio 🧑🏽‍💻 ##
 ## Zeff Lucas B. Gutierrez ##
 
 ## 8 - Dahlia ##
