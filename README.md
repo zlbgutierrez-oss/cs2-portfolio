@@ -8,3 +8,4 @@ Links for submissions down below ⬇
 
 ## LINKS ⬇ ##
 
+[hello.py](/q1/hello.py)
