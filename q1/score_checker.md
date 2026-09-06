@@ -62,7 +62,7 @@ Your flowchart should show:
 
 ## Flowchart
 
-
+![Score Checker Flowchart](./score_checker_flowchart.png)
 
 ---
 # Part 3 - Pseudocode
