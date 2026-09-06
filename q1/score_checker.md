@@ -84,6 +84,45 @@ ELSE
 DISPLAY "Needs Improvement"
 END
 
+---
+# Part 5 - Testing
+| Test | Input | Purpose | Expected Output | Actual Output | Result |
+|---|---:|---|---|---|---|
+| 1 | -1 | Below minimum | Invalid Score. | Invalid Score. | PASS |
+| 2 | 0 | Minimum boundary | Needs Improvement | Needs Improvement | PASS |
+| 3 | 74 | Below Satisfactory boundary | Needs Improvement | Needs Improvement | PASS |
+| 4 | 75 | Satisfactory boundary | Satisfactory | Satisfactory | PASS |
+| 5 | 80 | Very Satisfactory boundary | Very Satisfactory | Very Satisfactory | PASS |
+| 6 | 90 | Outstanding boundary | Outstanding | Outstanding | PASS |
+| 7 | 100 | Maximum boundary | Outstanding | Outstanding | PASS |
+| 8 | 101 | Above maximum | Invalid Score. | Invalid Score. | PASS |
+
+---
+
+## Testing Reflection
+### 1. Why is it important to test the values 0 and 100?
+> These are the exact edges of the valid range. Testing them confirms the program uses inclusive comparisons (`>=` / `<=` logic) so valid boundary scores aren't accidentally rejected.
+
+### 2. Why did you also test -1 and 101?
+> These are the first invalid values just outside each edge. Testing them confirms the program correctly rejects scores that are only slightly out of range, not just extreme ones.
+
+### 3. Which test helped you understand boundary conditions the most?
+> Testing 74 vs. 75 was the most useful, since it's the exact line between "Needs Improvement" and "Satisfactory" and shows why the order and comparison operators in the elif chain matter.
+
+### 4. Did any of your tests initially fail? If yes, what did you change in your program?
+> All tests passed once the range check was placed before the classification checks and the cutoffs were ordered from highest to lowest. Placing the boundary check first, and ordering the elif chain correctly, was what made every test pass.
+
+---
+
+# Reflection
+### 1. How did selection structures make the program more useful?
+> Selection structures (if/elif/else) let the program respond differently depending on the score instead of always doing the same thing. This makes it possible to handle invalid input and multiple grade levels with a single, organized set of rules.
+
+### 2. How did proper comments and readable formatting improve your program?
+> Clear variable names and short comments make it obvious what each block of code is checking, so anyone reading it later (including me) can understand the logic without having to trace through it line by line.
+
+### 3. Why is it useful to plan the program using a flowchart and pseudocode before writing the code?
+> Planning first helps catch logic mistakes, like checking cutoffs in the wrong order, before any code is written. It's much faster to fix a diagram or a few lines of pseudocode than to debug code after the fact.
 
 
 
