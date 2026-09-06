@@ -11,4 +11,4 @@ Links for submissions down below ⬇
 
 [Gutierrez_ZeffLucas_Distance.py](q1/Gutierrez_ZeffLucas_Distance.py)
 
-[score_checker.py](./q1/score_checker.py)
+[Gutierrez_ZeffLucas_score_checker.py](./q1/score_checker.py)
