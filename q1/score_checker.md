@@ -19,7 +19,7 @@ The classifications are:
 Scores below 0 or above 100 are considered invalid.
 
 ---
-# Part 1 - Analyze the Logic
+# Analyze the Logic
 
 ## Input
 What information does the program need?
@@ -49,7 +49,7 @@ Explain how the program decides which classification should be displayed.
 > Once the score passes the validity check, the program compares it against a series of cutoffs starting from the highest (90), then 80, then 75. The first condition that is true determines the classification. If none of the higher cutoffs are met, the score falls into "Needs Improvement" by default.
 
 ---
-# Part 2 - Flowchart
+# Flowchart
 Create a flowchart showing the logic of your program.
 Your flowchart should show:
 - Start
@@ -65,7 +65,7 @@ Your flowchart should show:
 ![Score Checker Flowchart](./score_checker_flowchart.png)
 
 ---
-# Part 3 - Pseudocode
+# Pseudocode
 Create a pseudocode showing the logic of your program.
 
 ## Pseudocode  
@@ -85,7 +85,7 @@ DISPLAY "Needs Improvement"
 END
 
 ---
-# Part 5 - Testing
+# Testing
 | Test | Input | Purpose | Expected Output | Actual Output | Result |
 |---|---:|---|---|---|---|
 | 1 | -1 | Below minimum | Invalid Score. | Invalid Score. | PASS |
