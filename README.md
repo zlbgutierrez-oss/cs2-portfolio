@@ -13,4 +13,8 @@ Links for submissions down below ⬇
 
 [Gutierrez_ZeffLucas_score_checker.md](./q1/score_checker.md)
 
-[Gutierrez_ZeffLucas_score_checker.py](./q1/score_checker.py)
+[Gutierrez_ZeffLucas_score_checker.py](./q1/score_checker.py) 
+
+[Gutierrez ZeffLucas workshop_validator.py](./q1/workshop_validator.py)
+
+[Gutierrez ZeffLucas workshop_validator.md](./q1/input_validation.md)
