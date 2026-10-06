@@ -18,3 +18,7 @@ Links for submissions down below ⬇
 [Gutierrez ZeffLucas workshop_validator.py](./q1/workshop_validator.py)
 
 [Gutierrez ZeffLucas workshop_validator.md](./q1/input_validation.md)
+
+[Gutierrez ZeffLucas cyber security.md](./q1/cyber_security.md)
+
+[Gutierrez ZeffLucas secure registration.md](./q1/secure_registration.py)
