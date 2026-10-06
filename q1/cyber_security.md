@@ -305,7 +305,7 @@ Use:
 # Files for This Activity
 
 - [`secure_registration.py`](secure_registration.py)
-- `cybersecurity.md`
+- [`cyber_security.md`](cyber_security.md)
 
 ---
 
