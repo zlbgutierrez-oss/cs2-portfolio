@@ -24,3 +24,5 @@ Links for submissions down below ⬇
 [Gutierrez ZeffLucas secure registration.py](./q1/secure_registration.py) 
 
 ## Quarter 2 ##
+
+[Gutierrez ZeffLucas_Problem1.py](./q2/Gutierrez_Problem1.py) 
