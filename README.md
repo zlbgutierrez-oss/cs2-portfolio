@@ -7,6 +7,8 @@ Links for submissions down below ⬇
 
 ## LINKS ⬇ ##
 
+## Quarter 1 ## 
+ 
 [hello.py](hello.py)
 
 [Gutierrez_ZeffLucas_Distance.py](q1/Gutierrez_ZeffLucas_Distance.py)
