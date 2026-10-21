@@ -21,4 +21,6 @@ Links for submissions down below ⬇
 
 [Gutierrez ZeffLucas cyber security.md](./q1/cyber_security.md)
 
-[Gutierrez ZeffLucas secure registration.py](./q1/secure_registration.py)
+[Gutierrez ZeffLucas secure registration.py](./q1/secure_registration.py) 
+
+## Quarter 2 ##
