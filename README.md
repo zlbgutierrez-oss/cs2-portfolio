@@ -27,4 +27,6 @@ Links for submissions down below ⬇
 
 ## Quarter 2 ##
 
-[Gutierrez ZeffLucas_Problem_1.py](./q2/Gutierrez_Problem1.py) 
+[Gutierrez ZeffLucas_Problem_1.py](./q2/Gutierrez_Problem1.py)  
+
+[Gutierrez ZeffLucas_Problem_2.py](./q2/Gutierrez_Problem2.py) 
